@@ -1,4 +1,5 @@
-public class main {
+public class Sum {
+    
     public static void main(String[] args) {
 
         int x = 10;
@@ -8,3 +9,5 @@ public class main {
         System.out.println("Product of x and y is: " + (x * y));
     }
 }
+    
+

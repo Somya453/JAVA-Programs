@@ -1,6 +1,10 @@
 public class main {
-    public main(String parameters) {
-        System.out.println("Hello, World!");
-        
+    public static void main(String[] args) {
+
+        int x = 10;
+        int y = 20;
+        int sum = x + y;
+        System.out.println("The sum of x and y is: " + sum);
+        System.out.println("Product of x and y is: " + (x * y));
     }
 }
